@@ -1,5 +1,6 @@
 # Discord-AI
 Discord automated reply to 
+Supported Gemini AI & Openrouter AI
 
 # Preparation 
 Get Your Gemini API Key : https://aistudio.google.com/apikey
